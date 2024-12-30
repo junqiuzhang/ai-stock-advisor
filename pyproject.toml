@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "ai-stock-advisor"
+version = "0.1.0"
+description = "Stock Analysis Advisor Based on LLM"
+authors = ["junqiu zhang <zhangjunqiu@stu.ouc.edu.cn>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<4.0"
+langchain = ">=0.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
