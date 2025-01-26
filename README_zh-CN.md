@@ -15,3 +15,10 @@
 
 ### 工作流程
 ![alt text](images/workflow.png)
+
+## 特性
+- [x] 多个LLM模型（GPT-4o/GPT-4o-mini/DeepSeek-V3/DeepSeek-R1）
+- [x] 新闻分类
+- [x] 新闻分析
+- [x] 股票搜索
+- [x] 报告生成

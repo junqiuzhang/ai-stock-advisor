@@ -15,3 +15,10 @@ Then, analysts will search for the most relevant stocks from the stock's main pr
 
 ### Workflow
 ![alt text](images/workflow.png)
+
+## Feature
+- [x] Multiple LLM models (GPT-4o/GPT-4o-mini/DeepSeek-V3/DeepSeek-R1)
+- [x] News Classification
+- [x] News Analysis
+- [x] Stock Search
+- [x] Report Generation
